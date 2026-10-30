@@ -1,0 +1,7 @@
+config.yaml
+rank.json
+nodes.json
+*.log
+*.exe
+cache.db
+.work/
